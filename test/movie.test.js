@@ -27,7 +27,7 @@ describe('Test movies service', function() {
                 name: 'Forrest Gump'
             }, {
                 id: 2,
-                name: 'The Green Mile'
+                name: 'Big'
             }], done);
     });
 });
